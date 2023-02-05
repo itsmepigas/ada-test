@@ -1,0 +1,9 @@
+# Defaults
+*/node_modules
+*/yarn-error.log
+*/yarn.lock
+.vscode/settings.json
+
+
+# Backend databases
+backend/src/database/*.sqlite
